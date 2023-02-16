@@ -26,12 +26,14 @@
 #### 89% of COVID-19 deaths were among people aged 55 years and older.
 ![image](https://user-images.githubusercontent.com/120426753/219248101-535a65b3-388f-4d10-bc85-6634f728f73c.png)
 
-
 ### Question 5- What does the Chi Square Test Reveal for the Number of COVID-19 Deaths by Age?
 #### With the Chi Square Test, Critical Value of 18.31 shows that the statistics are very significant. Null hypothesis is rejected and your statistical is significantly different.  We expected the total deaths would be the same across all age groups (100,176). However, the test shows that our expectation was far from reality  (Total deaths: 1.1M, Expected COVID-19 Deaths: 100,176.55.
+
+### Additionial Findings
 #### 4 of the top 5 underlying conditions associated with respiratory condition .
 #### The top two conditions have much larger associated deaths. About 35% of COVID-19 deaths with underlying conditions were Influenza/Pneumonia and Respiratory failure.
 #### About 45% of the COVID-19 deaths with underlying conditions were respiratory diseases, 4 of the top 5 underlying conditions were respiratory.
+
 
 ## Covid_analysis.ipynb Process
 
