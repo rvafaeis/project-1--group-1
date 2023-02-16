@@ -34,6 +34,13 @@
 #### The top two conditions have much larger associated deaths. About 35% of COVID-19 deaths with underlying conditions were Influenza/Pneumonia and Respiratory failure.
 #### About 45% of the COVID-19 deaths with underlying conditions were respiratory diseases, 4 of the top 5 underlying conditions were respiratory.
 
+### Data Links
+#### https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+#### https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_currenthospitaladmissions_00
+#### https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_7daydeathsper100k_00
+#### https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_7daytotaldailyvaccdoses_00
+#### https://covid.cdc.gov/covid-data-tracker/#demographics
+#### https://www.cdc.gov/coronavirus/2019-ncov/science/data-review/index.html
 
 ## Covid_analysis.ipynb Process
 
