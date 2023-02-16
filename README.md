@@ -24,6 +24,8 @@
 ### Questions 4- What have been the relationship between age group and COVID-19 deaths?
 #### Due to Pearson’s Correlation--r value is about 0.2 which is less than 0.3.  Therefore, the correlation between weekly deaths and weekly administered doses are very weak or none 
 #### 89% of COVID-19 deaths were among people aged 55 years and older.
+![image](https://user-images.githubusercontent.com/120426753/219248101-535a65b3-388f-4d10-bc85-6634f728f73c.png)
+
 
 ### Question 5- What does the Chi Square Test Reveal for the Number of COVID-19 Deaths by Age?
 #### With the Chi Square Test, Critical Value of 18.31 shows that the statistics are very significant. Null hypothesis is rejected and your statistical is significantly different.  We expected the total deaths would be the same across all age groups (100,176). However, the test shows that our expectation was far from reality  (Total deaths: 1.1M, Expected COVID-19 Deaths: 100,176.55.
