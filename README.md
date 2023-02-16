@@ -47,3 +47,11 @@ With the Chi Square Test, Critical Value of 18.31 shows that the statistics are 
 4 of the top 5 underlying conditions associated with respiratory condition 
 The top two conditions have much larger associated deaths. About 35% of COVID-19 deaths with underlying conditions were Influenza/Pneumonia and Respiratory failure
 About 45% of the COVID-19 deaths with underlying conditions were respiratory diseases, 4 of the top 5 underlying conditions were respiratory![image](https://user-images.githubusercontent.com/120353392/219239393-91836358-758b-4349-868d-33058a777e2e.png)
+**Data Links**
+https://covid.cdc.gov/covid-data-tracker/#datatracker-home
+https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_currenthospitaladmissions_00
+https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_7daydeathsper100k_00
+https://covid.cdc.gov/covid-data-tracker/#trends_weeklycases_7daytotaldailyvaccdoses_00
+https://covid.cdc.gov/covid-data-tracker/#demographics
+https://www.cdc.gov/coronavirus/2019-ncov/science/data-review/index.html
+![image](https://user-images.githubusercontent.com/120353392/219240305-6b7c99c5-ccbd-4326-86e2-0763c8250393.png)
